@@ -2,7 +2,6 @@ import os
 from datetime import timedelta
 import urllib
 import urllib.parse
-enc_pasword = urllib.parse.quote_plus("sm@rTy51")
 
 
 
